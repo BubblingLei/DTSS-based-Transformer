@@ -6,6 +6,10 @@ This repository contains the official implementation of the paper:
 
 ---
 
+## 📰 News
+
+- **[2026-08]** 🎉 Published in **IEEE Internet of Things Journal** (Early Access): *"Deep Learning-Based Signal Detection with Denoising and Temporal Sequence Structuring for Molecular Communication in Vessel-like Channels"* — DOI: [10.1109/JIOT.2026.3723459](https://doi.org/10.1109/JIOT.2026.3723459) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11655324)
+
 ## 📌 Overview
 
 This work proposes a Transformer-based signal sequence detector with a **Denoising and Temporal Sequence Structuring (DTSS) strategy** for molecular communication via diffusion (MCvD) in vessel-like channels with laminar Poiseuille flow. The proposed approach jointly addresses long-range inter-symbol interference (ISI) and inter-link interference (ILI) under indistinguishable molecular signatures from multiple transmitters.
